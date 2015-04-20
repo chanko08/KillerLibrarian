@@ -17,6 +17,6 @@ Programming, Art. Music all created by [Alex Bechanko](https://twitter.com/chank
 
 ## The Code
 The code is available on [github](https://github.com/chanko08/KillerLibrarian) with the MIT license.
-To run the code from you need to have [Love2d](www.love2d.org) version 0.9.2 or greater (although greater hasn't been tested).
+To run the code you need to have [Love2d](www.love2d.org) version 0.9.2 or greater (although greater hasn't been tested).
 Then for Windows users, it's simply locate the `Love2d` executable and drag the git repository folder onto the executable.
 For Linux users, provided that `Love2d` is on your path you can simply run `love /path/to/folder` and that will start the game.
